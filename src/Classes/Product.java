@@ -10,6 +10,6 @@ class Product {
     private int stock;
     private List<Order> orders;
     private double productWeight;
-
+    private String umar = "jello";
     // Constructor, getters, and setters
 }
